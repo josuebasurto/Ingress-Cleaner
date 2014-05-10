@@ -1,0 +1,17 @@
+{
+  "name": "Ingress Cleaner",
+  "version": "2.0",
+  "description": "Clean your Ingress Intel Map.",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["processintel.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "Clean!",
+	"default_icon": "icon.png"
+  },
+  "manifest_version": 2
+}
