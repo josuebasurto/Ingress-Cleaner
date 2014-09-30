@@ -3,15 +3,16 @@
   "version": "2.1",
   "description": "Clean your Ingress Intel Map.",
   "permissions": [
-    "activeTab"
+    "declarativeContent",
+    "https://www.ingress.com/intel*"
   ],
   "background": {
     "scripts": ["processintel.js"],
     "persistent": false
   },
-  "browser_action": {
+  "page_action": {
     "default_title": "Clean!",
-	"default_icon": "icon.png"
+	  "default_icon": "icon.png"
   },
   "manifest_version": 2
 }
