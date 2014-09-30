@@ -10,7 +10,11 @@ Author: [Josue Basurto](https://github.com/josuebasurto)
 ## Contribution List ##
 
 * [Flamur Kasa](ttps://github.com/FKasa) and Co-Author of adittional features!
+ 
+---
 
-I'm not responsible for any use of this script.
-This script is given as is.
-You can use it, modify it and change it for any purpose.
+### Considerations ###
+
+* I'm not responsible for any use of this script.
+* This script is given as is.
+* You can use it, modify it and change it for any purpose.
