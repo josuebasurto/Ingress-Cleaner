@@ -9,7 +9,7 @@ Author: [Josue Basurto](https://github.com/josuebasurto)
 
 ## Contribution List ##
 
-* [Flamur Kasa](@FKasa) and Co-Author of adittional features!
+* [Flamur Kasa](ttps://github.com/FKasa) and Co-Author of adittional features!
 
 I'm not responsible for any use of this script.
 This script is given as is.
