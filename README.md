@@ -3,12 +3,14 @@ Ingress-Cleaner
 
 Ingress Cleaner, chorme extension that cleans ingress intel map to take better screenshots or planning
 
-Download the Chrome Extension: http://goo.gl/JsTCHa
+[Download Chrome Extension](http://goo.gl/JsTCHa)
 
-This script is made by Josue Basurto
+Author: [Josue Basurto](https://github.com/josuebasurto)
+
+## Contribution List ##
+
+* [Flamur Kasa](@FKasa) and Co-Author of adittional features!
 
 I'm not responsible for any use of this script.
-
 This script is given as is.
-
 You can use it, modify it and change it for any purpose.
