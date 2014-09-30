@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=2d5LsFB9xiU
 ## Contribution List ##
 
 * [Josue Basurto](https://github.com/josuebasurto) Co-Author
-* [Flamur Kasa](ttps://github.com/FKasa) and Co-Author of adittional features!
+* [Flamur Kasa](https://github.com/FKasa) and Co-Author of adittional features!
  
 ---
 
