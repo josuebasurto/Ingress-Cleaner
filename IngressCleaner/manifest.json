@@ -6,6 +6,9 @@
     "declarativeContent",
     "https://www.ingress.com/intel*"
   ],
+  "icons": { "16": "icons/icon16.png",
+           "48": "icons/icon48.png",
+          "128": "icons/icon128.png" },
   "options_page": "options.html",
     "options_ui": {
     // Required.
@@ -19,7 +22,10 @@
   },
   "page_action": {
     "default_title": "Clean!",
-	  "default_icon": "icon.png"
+	  "default_icon": {                    // optional
+            "19": "icons/icon19.png",           // optional
+            "38": "icons/icon38.png"            // optional
+          }
   },
   "manifest_version": 2
 }
