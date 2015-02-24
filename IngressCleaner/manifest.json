@@ -3,6 +3,7 @@
   "version": "2.3",
   "description": "Clean your Ingress Intel Map.",
   "permissions": [
+    "storage",
     "declarativeContent",
     "https://www.ingress.com/intel*"
   ],
@@ -10,12 +11,12 @@
            "48": "icons/icon48.png",
           "128": "icons/icon128.png" },
   "options_page": "options.html",
-    "options_ui": {
+   /* "options_ui": {
     // Required.
     "page": "options.html",
     // Recommended.
     "chrome_style": true
-  },
+  },*/
   "background": {
     "scripts": ["processintel.js"],
     "persistent": false
