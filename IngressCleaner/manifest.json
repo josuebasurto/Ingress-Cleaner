@@ -1,11 +1,18 @@
 {
   "name": "Ingress Cleaner",
-  "version": "2.2",
+  "version": "2.3",
   "description": "Clean your Ingress Intel Map.",
   "permissions": [
     "declarativeContent",
     "https://www.ingress.com/intel*"
   ],
+  "options_page": "options.html",
+    "options_ui": {
+    // Required.
+    "page": "options.html",
+    // Recommended.
+    "chrome_style": true
+  },
   "background": {
     "scripts": ["processintel.js"],
     "persistent": false
