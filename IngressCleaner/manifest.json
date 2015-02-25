@@ -1,6 +1,6 @@
 {
   "name": "Ingress Cleaner",
-  "version": "3.0",
+  "version": "3.0.1",
   "description": "Clean your Ingress Intel Map.",
   "permissions": [
     "storage",
@@ -18,12 +18,12 @@
            "48": "icons/icon48.png",
           "128": "icons/icon128.png" },
   "options_page": "options.html",
-   /* "options_ui": {
+    "options_ui": {
     // Required.
     "page": "options.html",
     // Recommended.
     "chrome_style": true
-  },*/
+  },
   "background": {
     "scripts": ["processintel.js"],
     "persistent": false
