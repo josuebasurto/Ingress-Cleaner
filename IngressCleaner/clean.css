@@ -1,5 +1,5 @@
 body.clean #player_stats, body.clean #header, body.clean #game_stats, body.clean #geotools, body.clean #comm, 
-body.clean #bottom_right_stack, body.clean #portal_filter_header, body.clean #footer, #map_canvas.clean .gmnoprint {
+body.clean #bottom_right_stack, body.clean #portal_filter_header, body.clean #filters_container,body.clean #footer, #map_canvas.clean .gmnoprint {
   display: none;
 }
 
