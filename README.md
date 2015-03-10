@@ -1,7 +1,7 @@
 Ingress-Cleaner
 ===============
 
-Ingress Cleaner, chorme extension that cleans ingress intel map to take better screenshots for planning.
+Ingress Cleaner, a chorme extension that cleans ingress intel map to take better screenshots for planning.
 
 https://www.youtube.com/watch?v=2d5LsFB9xiU (outdated)
 
